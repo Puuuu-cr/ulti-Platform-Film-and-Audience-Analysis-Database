@@ -80,7 +80,6 @@ CREATE TABLE IF NOT EXISTS watchlists (
 
 -- =========================================================
 -- 8. Comprehensive Movie Details View
--- Use Case: Streamlit homepage display, advanced filtering, simplifies complex JOINs
 -- =========================================================
 CREATE OR REPLACE VIEW v_movie_full_details AS
 WITH GenreAgg AS (
