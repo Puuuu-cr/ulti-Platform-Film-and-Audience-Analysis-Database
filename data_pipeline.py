@@ -5,13 +5,13 @@ import time
 # ==========================================
 # 1. Core Configuration Area
 # ==========================================
-TMDB_API_KEY = "969bc847f1d2359b43e872da224c2624"
+TMDB_API_KEY = ""  
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "Movie_Project",
-    "user": "oulin_yang",
+    "host": "",
+    "database": "",
+    "user": "",
     "password": "",
-    "port": "5432"
+    "port": ""
 }
 BASE_IMG_URL = "https://image.tmdb.org/t/p/w500"
 
