@@ -1,5 +1,5 @@
 -- =====================================================================
--- Scenario - Veteran's Hidden Gems
+-- Scenario - Most Controversial Movies
 -- =====================================================================
 
 -- Note: STDDEV is supported in PostgreSQL, MySQL, and Oracle. 
